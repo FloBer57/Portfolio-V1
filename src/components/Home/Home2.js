@@ -21,9 +21,6 @@ function Home2() {
               <br /> Je passe un titre de Concepteur Développeur D'application
               <br />
               <br />
-              Puis je serais 2 ans en alternance à Veolia Cedilor pour passer le
-              titre de Mastère Management Ingénierie Infofrmatique &nbsp;
-              <i></i>
               <br />
               <br />
               Passionné par le développement web et les systèmes réseau, j'ai
@@ -57,7 +54,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/florent-bernar/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
